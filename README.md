@@ -2,4 +2,4 @@
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dawn-LX&theme=github" height="150"/>
 
-# (没有对齐？，逼死强迫症)
+# (诶，我就不对齐，逼死强迫症)
